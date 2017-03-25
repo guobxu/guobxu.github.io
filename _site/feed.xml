@@ -1,2 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-25T18:34:17+08:00</updated><id>/</id><title type="html">设计·思</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-25T21:37:55+08:00</updated><id>/</id><title type="html">设计·思</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">设计·思：起点</title><link href="/design/logo/2017/03/25/design-thoughts-logo.html" rel="alternate" type="text/html" title="设计·思：起点" /><published>2017-03-25T16:00:30+08:00</published><updated>2017-03-25T16:00:30+08:00</updated><id>/design/logo/2017/03/25/design-thoughts-logo</id><content type="html" xml:base="/design/logo/2017/03/25/design-thoughts-logo.html">&lt;p&gt;前记&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Evolution might be painful, but it deserves.&lt;/p&gt;
+
+  &lt;p&gt;演变或许是痛苦的，但是值得！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;「设计·思」、「设计思考」、「Design Thoughts」表示的是同一个概念，关于Web／App UI设计的思考。在如今UI设计变得越来越&lt;strong&gt;模式化&lt;/strong&gt;的情况下，这里希望对它作多一些思考，以期注入新的活力。&lt;/p&gt;
+
+&lt;p&gt;这些思考包括：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;主题&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;针对每一个主题，都可以拿出很多不同的设计，但是这些设计都必须围绕这个主题。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;理念&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;每一套设计的背后都蕴含着作者的创作理念，在着手设计之前，首先要明确设计的理念。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;创造性&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;创造性根植于设计之中，但模式之所以成为模式，是因为证明它是有效的。应当在合理的范围内，实现对现有模式的突破。&lt;/p&gt;
+
+&lt;p&gt;「设计·思」的Logo，「D」代表Design（设计），「T」代表Thought（思考）。设计不应当只是作为一种技巧的呈现，更应该包含作者的思考，「D」和「T」密不可分。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://guobxu.github.io/assets/img/Logo-480x400.png&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">前记</summary></entry></feed>
