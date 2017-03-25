@@ -26,11 +26,13 @@ categories: Design Logo
 
 创造性根植于设计之中，但模式之所以成为模式，是因为证明它是有效的。应当在合理的范围内，实现对现有模式的突破。
 
-「设计·思」的Logo，「D」代表Design（设计），「T」代表Thought（思考）。设计不应当只是作为一种技巧的呈现，更应该包含作者的思考，「D」和「T」密不可分。
+「设计·思」的Logo，「D」代表Design（设计），「T」代表Thought（思考）。设计不应当只是作为一种技巧的呈现，更应该包含独立的思考，「D」和「T」密不可分。
 
-<img src="https://guobxu.github.io/assets/img/Logo-480x400.png">
+<img src="https://guobxu.github.io/img/Logo.png">
 
+图标：
 
+<img src="https://guobxu.github.io/img/Icon.png">
 
 
 
