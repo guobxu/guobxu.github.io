@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "设计·思：起点"
+title:  "起点"
 date:   2017-03-25 16:00:30 +0800
 categories: Design Logo
 ---
