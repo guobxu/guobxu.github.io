@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-25T18:23:16+08:00</updated><id>/</id><title type="html">设计·思</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-25T18:24:13+08:00</updated><id>/</id><title type="html">设计·思</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Java 9年</title><link href="/design/web/app/2017/03/25/design-thoughts-from-now.html" rel="alternate" type="text/html" title="Java 9年" /><published>2017-03-25T16:00:30+08:00</published><updated>2017-03-25T16:00:30+08:00</updated><id>/design/web/app/2017/03/25/design-thoughts-from-now</id><content type="html" xml:base="/design/web/app/2017/03/25/design-thoughts-from-now.html">&lt;p&gt;从毕业开始到现在快9年了，可谓弹指一挥间，但人又有多少个九年。自1月下旬作为独立顾问的项目结束之后，相当于是失业了，正好赶上回家过春节，也就总算有点时间去回顾一下自己这些年走过的技术道路。&lt;/p&gt;
+
+&lt;h3 id=&quot;初出茅庐&quot;&gt;初出茅庐&lt;/h3&gt;
+
+&lt;p&gt;大四下学期和一个很要好的哥们去了第一家公司，在武汉，是基于Java Web技术做多维报表的，我进去后主要负责的是图表（&lt;code class=&quot;highlighter-rouge&quot;&gt;Chart&lt;/code&gt;）这一块。公司比较重视培养刚毕业的新人，有专门的人进行业务和技术方面的辅导，并且提供员工宿舍，每周都会安排些体育运动，团队氛围也挺不错。我刚进去的时候势头还不错，学习得也比较快，但是这种势头没有保持下来，后来因为一些个人性格上的原因就离开了。到现在想起来一直心有愧疚，欠当时&lt;code class=&quot;highlighter-rouge&quot;&gt;Team Leader&lt;/code&gt;一声谢谢，所幸这家公司一直发展得挺好。&lt;/p&gt;
+
+&lt;p&gt;第一家公司对每个职场人都有比较重要的意义，幸运的是这家公司对我的意义是很积极的，把我从象牙塔成功引导到了&lt;code class=&quot;highlighter-rouge&quot;&gt;Java&lt;/code&gt;技术世界，同时让我学会了独立思考、以及对代码严谨性的坚持！&lt;/p&gt;
+
+&lt;h3 id=&quot;一路走来&quot;&gt;一路走来&lt;/h3&gt;
+
+&lt;p&gt;之后来到了深圳，没有想过会在这里呆多久也就呆到了现在，就像当初也没有想过自己为什么要做&lt;code class=&quot;highlighter-rouge&quot;&gt;Java&lt;/code&gt;会做多久也做到了现在！那会很年轻，年轻的心总是躁动的，因此有过不少的跳槽记录。呆过的公司基本也是围绕着&lt;code class=&quot;highlighter-rouge&quot;&gt;Java&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;数据库&lt;/code&gt;转，但细想起来与第一家公司学到的相比自己并没有什么质的变化，只是见过的多了些。编程本身也变得更简单，语言本身的特性越来越多、各种框架层出不穷，项目和产品都是基于这些进行堆砌，沿用已有的代码、有问题找&lt;code class=&quot;highlighter-rouge&quot;&gt;Google&lt;/code&gt;。现在的&lt;code class=&quot;highlighter-rouge&quot;&gt;Coding&lt;/code&gt;已经不需要太多的思考，只是一种重复了。&lt;/p&gt;
+
+&lt;h4 id=&quot;外包&quot;&gt;外包&lt;/h4&gt;
+
+&lt;p&gt;近两三年都从事于软件外包行业，因此聊一聊。很多公司由于用人成本的原因，将项目承包给第三方的公司（乙方），这样就不需要自己去组织、维持项目团队。在节省了用人成本的同时，很多的外包项目都存在管理、沟通以及项目成员变动方面的问题。同时由于是乙方提供软件服务，乙方公司通常不会对应聘者提出太多的要求（关系到收益），这也导致了项目成员素质的参差不齐。另外很多外包项目都会经历多个团队之手，这也直接导致了项目代码的混乱不堪。&lt;/p&gt;
+
+&lt;p&gt;在外包项目中呆，大多数时候属于混混日子的节奏！这只是生意！&lt;/p&gt;
+
+&lt;h3 id=&quot;think-again&quot;&gt;Think Again&lt;/h3&gt;
+
+&lt;p&gt;做&lt;code class=&quot;highlighter-rouge&quot;&gt;Java&lt;/code&gt;时间长了，渐渐地有点疲劳了，不得不说&lt;code class=&quot;highlighter-rouge&quot;&gt;Java&lt;/code&gt;是一门很好的语言，当然缺点也比较明显。但是我一直没有想明白的一件事情，为什么我会去做&lt;code class=&quot;highlighter-rouge&quot;&gt;Coding&lt;/code&gt;，它真的是我感兴趣的吗？前面提到现在处于一个待业的状态，因此是时候重新去思考这个问题了！&lt;/p&gt;</content><author><name></name></author><summary type="html">从毕业开始到现在快9年了，可谓弹指一挥间，但人又有多少个九年。自1月下旬作为独立顾问的项目结束之后，相当于是失业了，正好赶上回家过春节，也就总算有点时间去回顾一下自己这些年走过的技术道路。</summary></entry></feed>
