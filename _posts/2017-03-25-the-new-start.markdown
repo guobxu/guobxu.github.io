@@ -14,25 +14,31 @@ categories: Design Logo
 
 这些思考包括：
 
-* 主题
-
-针对每一个主题，都可以拿出很多不同的设计，但是这些设计都必须围绕这个主题。
-
 * 理念
 
 每一套设计的背后都蕴含着作者的创作理念，在着手设计之前，首先要明确设计的理念。
+
+* 技巧
+
+技巧存在于设计的实现过程之中，如果说「理念」是设计的灵魂，那么「技巧」则是设计的躯干。
 
 * 创造性
 
 创造性根植于设计之中，但模式之所以成为模式，是因为证明它是有效的。应当在合理的范围内，实现对现有模式的突破。
 
-「设计·思」的Logo，「D」代表Design（设计），「T」代表Thought（思考）。设计不应当只是作为一种技巧的呈现，更应该包含独立的思考，「D」和「T」密不可分。
+* 本土化
 
-<img src="https://guobxu.github.io/img/Logo.png">
+设计没有边界的，却又是本土化（Localization）的。对于本土化元素的考量，能够设计出更符合当前文化、更易于让当前受众接受的作品！
 
-图标：
+「设计·思」的Logo，「D」代表Design（设计），「T」代表Thought（思考）。设计不应当只是作为一种技巧的堆砌和呈现，更应该包含独立的思考，「D」和「T」密不可分。
 
-<img src="https://guobxu.github.io/img/Icon.png">
+* Logo
+
+	<img src="https://guobxu.github.io/img/Logo.png">
+
+* 图标
+
+	<img src="https://guobxu.github.io/img/Icon.png">
 
 
 
