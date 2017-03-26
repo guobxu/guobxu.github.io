@@ -32,13 +32,13 @@ categories: Design Logo
 
 「设计·思」的Logo，「D」代表Design（设计），「T」代表Thought（思考）。设计不应当只是作为一种技巧的堆砌和呈现，更应该包含独立的思考，「D」和「T」密不可分。
 
-* Logo
+**Logo**
 
-	<img src="https://guobxu.github.io/img/Logo.png">
+<img src="https://guobxu.github.io/img/Logo.png">
 
-* 图标
+**图标**
 
-	<img src="https://guobxu.github.io/img/Icon.png">
+<img src="https://guobxu.github.io/img/Icon.png">
 
 
 
