@@ -4,12 +4,11 @@ title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+「iOS」设计者、开发，现居住于**深圳**。博文主要用于分享一些日常工作中的<u>思考</u>，以及<u>个人作品</u>。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+<img src="./img/Profile.jpg" style="width:250px;">
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+如果您对「iOS」的设计开发有兴趣，欢迎一起交流：
+
+* <span style="color:#999">WeChat：</span>guobxu
+* <span style="color:#999">我的邮箱：</span><a href="mailto:gbxu@outlook.com">gbxu@outlook.com</a>
