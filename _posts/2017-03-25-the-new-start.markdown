@@ -2,7 +2,7 @@
 layout: post
 title:  "起点"
 date:   2017-03-25 16:00:30 +0800
-categories: Design Logo
+tags: Design Logo
 ---
 前记
 
